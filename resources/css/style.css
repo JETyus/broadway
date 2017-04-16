@@ -31,6 +31,8 @@ h3 {
 #titlenav {
   font-family: Helvetica;
   background-image: url('../images/the-flatiron-building.png');
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #process {
@@ -53,8 +55,9 @@ h3 {
   font-weight: bold;
   color: white;
   background-image: url('../images/the-flatiron-building.png');
+  background-repeat: no-repeat;
+  background-position: center;
 }
-
 
 #footernav {
   font-family: Helvetica;
